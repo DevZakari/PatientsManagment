@@ -1,0 +1,28 @@
+.input-group {
+    max-width: 100%;
+    margin-bottom: 10px;
+}
+
+.input-group-prepend .input-group-text {
+    background-color: #fff;
+    border-right: 1px solid #ccc; 
+    padding: 20px; 
+}
+
+.search-input {
+    border-radius: 20px 20px 20px 20px; 
+    padding: 18px; 
+    border-left: 1px solid #ccc; 
+    border-bottom: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+}
+
+.input-group-text i {
+    color: #86f8e9; 
+}
+
+.card-header {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}

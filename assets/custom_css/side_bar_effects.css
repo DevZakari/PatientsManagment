@@ -1,0 +1,8 @@
+.sidebar .nav-link:hover {
+    background-color: #9b1b9b; /* Couleur de fond au survol */
+    color: #ffffff; /* Couleur du texte au survol */
+}
+
+.sidebar .nav-link:hover .nav-icon {
+    color: #ffffff; /* Couleur de l'icône au survol */
+}
